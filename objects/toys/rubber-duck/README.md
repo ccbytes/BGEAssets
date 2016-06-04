@@ -1,7 +1,7 @@
 # BGEAssets
 ## Rubber Duck
 
-Low polly, stylised, BB rifle.
+Low polly, stylised, rubber duck.
 
 
 ## Dimensions
