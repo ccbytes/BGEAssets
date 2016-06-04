@@ -17,6 +17,3 @@ Low polly, stylised, BB rifle.
 * Physics
 * Basic Texture
 * Game Logic
-
-
-
