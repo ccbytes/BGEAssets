@@ -8,4 +8,5 @@ Collection of assets for Blender Game Engine
 ![Rubber Duck](./blender2.77a/low-poly/objects/toys/rubber-duck/preview.png?raw | height=150x)
 ![Hamburger](./blender2.77a/low-poly/objects/food/hamburger/preview.png?raw=true | height=150x)
 ![Ice Cream](./blender2.77a/low-poly/objects/food/ice-cream-cone/preview.png?raw=true | height=150x)
+![Hotdog](./blender2.77a/low-poly/objects/food/hotdog/preview.png?raw=true | height=150x)
 
