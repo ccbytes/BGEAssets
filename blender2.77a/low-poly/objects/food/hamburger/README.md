@@ -1,14 +1,15 @@
 # BGEAssets
-## Ice cream cone
+## Hamburger
 
-Low polly, stylised, ice cream cone
+Low polly, stylised, hamburger
 
 
 ## Dimensions
-7.161cm x 6.493cm x 18.56cm
+30.615cm x 28.195cm x 25.619cm
 
 * Mesh
 * Vertex groups
+* Material groups
 
 
 ## Todo
