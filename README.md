@@ -1,12 +1,9 @@
 # BGEAssets
 Collection of assets for Blender Game Engine
+License: ![License information](./LICENSE.txt?raw=true)
 
 ## Examples
-
 ![Carnival Collection](./preview.png?raw=true)
-
-# License
-![License information](./LICENSE.txt?raw=true)
 
 # About the Style Guide
 The style guide is broken into two parts.
