@@ -6,6 +6,12 @@ Collection of assets for Blender Game Engine
 ![Carnival Collection](./preview.png?raw=true)
 
 
+# About the Style Guide
+The style guide is broken into two parts.
+ 1. General Bender Style Guide contained within the root README, covering technical elements as units of measurement, object, vector and material namign conventions within blender.
+ 2. Collection Style Guide, contained within each collections base folder README covering asthetic rules such as model asthetics, use of colour, lighting, etc.
+
+# General Bender Style Guide
 ## Name Conventions
 ### Objects
 Blender objects should be named with the most accurate representation of what they are.
@@ -23,10 +29,13 @@ Template: <object name>-<vector-group>.<count>
 For example, a single "shoe heel" would be "shoe-heel.000", two shoe objects would be "shoe-heel.000" and "shoe-heel.001"
 
 ### Materials
-To be completed
+Blender materials should be named with the most accurate representation of what they are.
+They should start with the material name, hypenated with the closest colour name, with a decimal followed by a postfix of the count.
+
+Template: <material>-<colour>.<count>
+Example: A single leather material would be "leather-brown.000", where as multiple leather materials could be "leather-brown.000", "leather-brown.001", "leather-red.000"
+
 ### Textures
 To be completed
 
 
-## Style Guide
-To be described within each asset collections README.md
