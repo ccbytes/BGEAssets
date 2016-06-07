@@ -5,6 +5,8 @@ Collection of assets for Blender Game Engine
 
 ![Carnival Collection](./preview.png?raw=true)
 
+# License
+![License information](./LICENSE.txt?raw=true)
 
 # About the Style Guide
 The style guide is broken into two parts.
@@ -13,6 +15,7 @@ The style guide is broken into two parts.
 
 # General Bender Style Guide
 ## Name Conventions
+
 ### Objects
 Blender objects should be named with the most accurate representation of what they are.
 They should be postfixed with their number count to the 3rd decimal place, starting at zero.
@@ -36,6 +39,10 @@ Template: <material>-<colour>.<count>
 Example: A single leather material would be "leather-brown.000", where as multiple leather materials could be "leather-brown.000", "leather-brown.001", "leather-red.000"
 
 ### Textures
-To be completed
+Blender elements should be named with the most accurate, real world example, of what they are.
+Texture groups should be prefixed by the blender material they're being used for, followed by the map type (bump, normal, displacement, light, etc), postfixed by the count.
+
+Template: <material>-<map-type>.<count>
+Example: A single leather texture would be "leather-bump.000", where as multiple leather textures could be "leather-bump.000", "leather-bump.001", "leather-light.000", "leather-normal.000"
 
 
