@@ -5,12 +5,16 @@ License: ![License information](./LICENSE.txt?raw=true)
 ## Examples
 ![Carnival Collection](./preview.png?raw=true)
 
-# About the Style Guide
+# About the Code Style Guide
+General: https://www.python.org/dev/peps/pep-0008/
+Docstrings: https://www.python.org/dev/peps/pep-0257/
+
+# About the Art Style Guide
 The style guide is broken into two parts.
  1. General Bender Style Guide contained within the root README, covering technical elements as units of measurement, object, vector and material namign conventions within blender.
  2. Collection Style Guide, contained within each collections base folder README covering asthetic rules such as model asthetics, use of colour, lighting, etc.
 
-# General Bender Style Guide
+# General Bender Art Style Guide
 ## Name Conventions
 
 ### Objects
