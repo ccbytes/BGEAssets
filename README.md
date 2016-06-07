@@ -1,13 +1,12 @@
 # BGEAssets
-Collection of assets for Blender Game Engine.
-License: ![License information](./LICENSE.txt?raw=true)
+Collection of assets for Blender Game Engine. ![License information](./LICENSE.txt?raw=true)
 
 ## Examples
 ![Carnival Collection](./preview.png?raw=true)
 
 # About the Code Style Guide
-General: https://www.python.org/dev/peps/pep-0008/
-Docstrings: https://www.python.org/dev/peps/pep-0257/
+ * General: https://www.python.org/dev/peps/pep-0008/
+ * Docstrings: https://www.python.org/dev/peps/pep-0257/
 
 # About the Art Style Guide
 The style guide is broken into two parts.
