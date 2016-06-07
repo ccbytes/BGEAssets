@@ -19,6 +19,7 @@ The style guide is broken into two parts.
 ### Objects
 Blender objects should be named with the most accurate representation of what they are.
 They should be postfixed with their number count to the 3rd decimal place, starting at zero.
+Blender objects should be postfxied with their number count to the 3rd decimal place, starting at zero.
 
 Template: <object name>.<count>
 For example, a single "shoe" would be "shoe.000", two shoe objects would be "shoe.000" and "shoe.001"
@@ -34,6 +35,7 @@ For example, a single "shoe heel" would be "shoe-heel.000", two shoe objects wou
 ### Materials
 Blender materials should be named with the most accurate representation of what they are.
 They should start with the material name, hypenated with the closest colour name, with a decimal followed by a postfix of the count.
+Blender materials should be postfxied with their number count to the 3rd decimal place, starting at zero.
 
 Template: <material>-<colour>.<count>
 Example: A single leather material would be "leather-brown.000", where as multiple leather materials could be "leather-brown.000", "leather-brown.001", "leather-red.000"
@@ -41,6 +43,7 @@ Example: A single leather material would be "leather-brown.000", where as multip
 ### Textures
 Blender elements should be named with the most accurate, real world example, of what they are.
 Texture groups should be prefixed by the blender material they're being used for, followed by the map type (bump, normal, displacement, light, etc), postfixed by the count.
+Blender textures should be postfxied with their number count to the 3rd decimal place, starting at zero.
 
 Template: <material>-<map-type>.<count>
 Example: A single leather texture would be "leather-bump.000", where as multiple leather textures could be "leather-bump.000", "leather-bump.001", "leather-light.000", "leather-normal.000"
