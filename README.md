@@ -10,8 +10,8 @@ Collection of assets for Blender Game Engine. ![License information](./LICENSE.t
 
 # About the Art Style Guide
 The style guide is broken into two parts.
- 1. General Bender Style Guide contained within the root README, covering technical elements as units of measurement, object, vector and material namign conventions within blender.
- 2. Collection Style Guide, contained within each collections base folder README covering asthetic rules such as model asthetics, use of colour, lighting, etc.
+ 1. General Bender Style Guide contained within the root README, covering technical elements as units of measurement, object, vector and material namign conventions within blender. General Blender Style Guide rules apply to all child files and folders.
+ 2. Collection Style Guide, contained within each collections base folder README covering asthetic rules such as model asthetics, use of colour, lighting, etc. Collection Style Guide rules only apply to that specific collections files and folders.
 
 # General Bender Art Style Guide
 ## Name Conventions
