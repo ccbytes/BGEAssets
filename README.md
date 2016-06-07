@@ -14,6 +14,9 @@ The style guide is broken into two parts.
  2. Collection Style Guide, contained within each collections base folder README covering asthetic rules such as model asthetics, use of colour, lighting, etc. Collection Style Guide rules only apply to that specific collections files and folders.
 
 # General Bender Art Style Guide
+## Units of measurement
+Metric units should be used at a scale of 1:1 so that the blender object measurements are within range of a real life representation of the object.
+
 ## Name Conventions
 
 ### Objects
