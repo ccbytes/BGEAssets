@@ -1,5 +1,5 @@
 # BGEAssets
-Collection of assets for Blender Game Engine
+Collection of assets for Blender Game Engine.
 License: ![License information](./LICENSE.txt?raw=true)
 
 ## Examples
